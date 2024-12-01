@@ -15,5 +15,30 @@ Highlighted Features:
 This project for managing student results brings about increased efficiency, diminished manual workload, and heightened data accuracy in educational institutions. It streamlines the intricate process of result management and analysis, benefiting administrators, educators, and students collectively.
 
 Home page :-
+
 ![image](https://github.com/user-attachments/assets/c113a88a-cd8d-4310-8f47-1696de466e4e)
+
+Login pages :-
+
+![image](https://github.com/user-attachments/assets/185a6c5d-66ad-4dab-9da5-c525e19c3618)
+
+![image](https://github.com/user-attachments/assets/b872b24d-6ee5-459f-b99f-e7249503f01b)
+
+Admin Dashboard :-
+
+![image](https://github.com/user-attachments/assets/1e614899-3e54-4632-bc50-044a08073e5a)
+
+Student Result view :-
+
+![image](https://github.com/user-attachments/assets/edd1730a-f939-4c85-abab-036007b7969f)
+
+Database :-
+
+![image](https://github.com/user-attachments/assets/483cf64f-8b7c-46af-b1e2-b53cab5be8f0)
+
+
+
+
+
+
 
