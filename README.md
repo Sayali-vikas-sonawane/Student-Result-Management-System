@@ -13,3 +13,7 @@ Highlighted Features:
 4. Visual Interface: Developed utilizing the Java Swing toolkit, renowned for its user-friendly components like buttons, menus, tables, and forms, the system delivers an interactive interface that enhances user engagement and experience.
 
 This project for managing student results brings about increased efficiency, diminished manual workload, and heightened data accuracy in educational institutions. It streamlines the intricate process of result management and analysis, benefiting administrators, educators, and students collectively.
+
+Home page :-
+![image](https://github.com/user-attachments/assets/c113a88a-cd8d-4310-8f47-1696de466e4e)
+
