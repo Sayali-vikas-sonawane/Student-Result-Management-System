@@ -34,7 +34,8 @@ Student Result view :-
 
 Database :-
 
-![image](https://github.com/user-attachments/assets/483cf64f-8b7c-46af-b1e2-b53cab5be8f0)
+![image](https://github.com/user-attachments/assets/34ea056b-0686-4ed6-9629-dcd0fd8f9adc)
+
 
 
 
